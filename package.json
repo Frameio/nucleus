@@ -28,7 +28,7 @@
   "author": "Samuel Attard",
   "license": "Apache-2.0",
   "dependencies": {
-    "aws-sdk": "^2.119.0",
+    "aws-sdk": "^2.275.1",
     "body-parser": "^1.17.2",
     "child-process-promise": "^2.2.1",
     "colors": "^1.2.5",
@@ -49,14 +49,14 @@
     "passport-http": "^0.3.0",
     "passport-openid": "^0.4.0",
     "pg": "^7.3.0",
-    "pg-hstore": "^2.3.2",
+    "pg-hstore": "^2.3.4",
     "pify": "^3.0.0",
     "reflect-metadata": "^0.1.10",
     "semver": "^5.4.1",
     "sequelize": "^4.11.1",
     "sequelize-typescript": "^0.5.0",
     "sqlite3": "^3.1.12",
-    "tedious": "^2.0.0",
+    "tedious": "^3.0.1",
     "to-ico": "^1.1.5"
   },
   "devDependencies": {
